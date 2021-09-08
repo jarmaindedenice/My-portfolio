@@ -3,6 +3,7 @@
 * {
     background-color: #111827;
     margin: 0;
+    scroll-behavior: smooth;
 }
 .head {
     text-align: center;
